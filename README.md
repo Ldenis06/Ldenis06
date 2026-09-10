@@ -5,7 +5,7 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 ---
 
 ### 👨‍💻 Sobre mí
-- 🎓 **Formación:** Tecnicatura en Desarrollo de Software (UADE, 2025 – 2027).
+- 🎓 **Formación:** Tecnicatura en Desarrollo de Software (UADE, 2025 – Actualidad).
 - 🎯 **Enfoque:** Relevamiento de requerimientos funcionales, desarrollo web frontend y análisis de datos.
 - 💡 **Perfil:** Me destaco por mi organización, capacidad de aprendizaje continuo y adaptación a entornos dinámicos.
 
