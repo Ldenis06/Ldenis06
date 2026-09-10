@@ -44,17 +44,15 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ldenis06&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ldenis06&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldenis06&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ldenis06&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
-
----
 
 ### 📫 Contacto y enlaces
 
