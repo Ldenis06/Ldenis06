@@ -1,4 +1,4 @@
-#Soy Lautaro Denis 👋
+# Hola! Soy Lautaro Denis 👋
 
 Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argentina de la Empresa (UADE), con interés en desarrollo web, análisis funcional, gestión de datos y optimización de procesos.
 
@@ -18,35 +18,34 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 ### 🛠️ Stack y herramientas
 
 #### Lenguajes
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1E1E2E?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1E1E2E?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1E1E2E?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-1E1E2E?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1E1E2E?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Datos, Cloud & Gestión
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### Datos, Cloud & Herramientas
+![Firebase](https://img.shields.io/badge/Firebase-1E1E2E?style=for-the-badge&logo=firebase&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-1E1E2E?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-1E1E2E?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
 ### 📜 Certificaciones destacadas
-- ![Red Hat](https://img.shields.io/badge/Red_Hat_Academy-EE0000?style=flat-square&logo=redhat&logoColor=white) **System Administration I (RH124 - RHA)**
-- ![HP](https://img.shields.io/badge/HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white) **Ciencia y Análisis de Datos / Ciberseguridad**
-- ![Santander](https://img.shields.io/badge/Santander_Open_Academy-EC0000?style=flat-square&logo=bancosantander&logoColor=white) **Google: IA, Liderazgo, Comunicación Efectiva y Negociación**
+- ![Red Hat](https://img.shields.io/badge/Red_Hat_Academy-16161a?style=flat-square&logo=redhat&logoColor=white) **System Administration I (RH124 - RHA)**
+- ![HP](https://img.shields.io/badge/HP_LIFE-16161a?style=flat-square&logo=hp&logoColor=white) **Ciencia y Análisis de Datos / Ciberseguridad**
+- ![Santander](https://img.shields.io/badge/Santander_Open_Academy-16161a?style=flat-square&logo=bancosantander&logoColor=white) **Google: IA, Liderazgo, Comunicación Efectiva y Negociación**
 
 ---
 
-
 ### 📫 Contacto y enlaces
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ldenis06.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denislautaro)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denislautaro6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://ldenis06.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denislautaro)
+[![Email](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denislautaro6@gmail.com)
