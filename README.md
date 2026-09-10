@@ -1,4 +1,4 @@
-#Soy Lautaro Denis 
+# Soy Lautaro Denis 
 Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argentina de la Empresa (UADE), con interés en desarrollo web, análisis funcional, gestión de datos y optimización de procesos.
 
 ---
