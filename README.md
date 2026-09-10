@@ -30,6 +30,6 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 ---
 
 ### 📫 Contacto y enlaces
-- 🌐 **Portfolio:** [Ver mi portfolio](https://ldenis06.github.io/portfolio/)
+- 🌐 **Portfolio:** [Portfolio](https://ldenis06.github.io/portfolio/)
 - 💼 **LinkedIn:** [denislautaro](https://www.linkedin.com/in/denislautaro)
 - ✉️ **Email:** [denislautaro6@gmail.com](mailto:denislautaro6@gmail.com)
