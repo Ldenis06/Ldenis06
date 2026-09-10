@@ -1,21 +1,20 @@
-# Hola! Soy Lautaro Denis 👋
-
+# Hola! Soy Lautaro Denis 
 Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argentina de la Empresa (UADE), con interés en desarrollo web, análisis funcional, gestión de datos y optimización de procesos.
 
 ---
 
-### 👨‍💻 Sobre mí
-- 🎓 **Formación:** Estudiante de la Tecnicatura Universitaria en Desarrollo de Software (UADE, 2025 – Actualidad).
-- 🎯 **Enfoque profesional:** Formación orientada a integrar equipos de desarrollo en todo el ciclo de vida del software:
+###  Sobre mí
+- **Formación:** Estudiante de la Tecnicatura Universitaria en Desarrollo de Software (UADE, 2025 – Actualidad).
+- **Enfoque profesional:** Formación orientada a integrar equipos de desarrollo en todo el ciclo de vida del software:
   - **Análisis y relevamiento:** Especificación de requerimientos funcionales y diseño de sistemas de información.
   - **Desarrollo y algoritmos:** Programación orientada a objetos, diseño web interactivo y estructuras de datos.
   - **Datos y calidad:** Modelado e ingeniería de datos, testing y control de calidad de aplicaciones.
   - **Metodologías:** Procesos modernos de desarrollo de software y gestión ágil.
-- 💡 **Perfil:** Me destaco por mi organización, capacidad analítica y aprendizaje continuo para aportar soluciones técnicas a procesos operativos.
+- **Perfil:** Me destaco por mi organización, capacidad analítica y aprendizaje continuo para aportar soluciones técnicas a procesos operativos.
 
 ---
 
-### 🛠️ Stack y herramientas
+### Stack y herramientas
 
 #### Lenguajes
 ![Python](https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=white)
@@ -37,14 +36,14 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 
 ---
 
-### 📜 Certificaciones destacadas
+### Certificaciones destacadas
 - ![Red Hat](https://img.shields.io/badge/Red_Hat_Academy-16161a?style=flat-square&logo=redhat&logoColor=white) **System Administration I (RH124 - RHA)**
 - ![HP](https://img.shields.io/badge/HP_LIFE-16161a?style=flat-square&logo=hp&logoColor=white) **Ciencia y Análisis de Datos / Ciberseguridad**
 - ![Santander](https://img.shields.io/badge/Santander_Open_Academy-16161a?style=flat-square&logo=bancosantander&logoColor=white) **Google: IA, Liderazgo, Comunicación Efectiva y Negociación**
 
 ---
 
-### 📫 Contacto y enlaces
+### Contacto y enlaces
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://ldenis06.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denislautaro)
