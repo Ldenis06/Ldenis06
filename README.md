@@ -12,6 +12,15 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
   - **Metodologías:** Procesos modernos de desarrollo de software y gestión ágil.
 - **Perfil:** Me destaco por mi organización, capacidad analítica y aprendizaje continuo para aportar soluciones técnicas a procesos operativos.
 
+
+
+
+
+### 📫 Contacto y enlaces
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ldenis06.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denislautaro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denislautaro6@gmail.com)
 ---
 
 ## 🛠️ Herramientas y tecnologías favoritas
@@ -49,12 +58,6 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 - ![Red Hat](https://img.shields.io/badge/Red_Hat_Academy-EE0000?style=flat-square&logo=redhat&logoColor=white) **System Administration I (RH124 - RHA)**
 - ![HP](https://img.shields.io/badge/HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white) **Ciencia y Análisis de Datos / Ciberseguridad**
 - ![Santander](https://img.shields.io/badge/Santander_Open_Academy-EC0000?style=flat-square&logo=bancosantander&logoColor=white) **Google: IA, Liderazgo, Comunicación Efectiva y Negociación**
-
-### Contacto y enlaces
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://ldenis06.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denislautaro)
-[![Email](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denislautaro6@gmail.com)
 
 
 
