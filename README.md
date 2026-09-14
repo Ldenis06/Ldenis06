@@ -17,9 +17,9 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 - **Perfil:** Me destaco por mi organización, capacidad analítica y aprendizaje continuo para aportar soluciones técnicas a procesos operativos.
 
 
-## 🛠️ Herramientas y tecnologías favoritas
+## Herramientas y tecnologías favoritas
 
-### 💻 Lenguajes de programación
+### Lenguajes de programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -28,16 +28,16 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### 🧱 Frameworks y librerías
+### Frameworks y librerías
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### 🗄️ Bases de datos & Cloud
+### Bases de datos & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=githubpages&logoColor=white)
 
-### 🧰 Software y herramientas
+### Software y herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white)
@@ -46,9 +46,16 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
+#### Asistencia por IA y productividad
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
+</p>
+
 ---
 
-### 📜 Certificaciones destacadas
+### Certificaciones destacadas
 - ![Red Hat](https://img.shields.io/badge/Red_Hat_Academy-EE0000?style=flat-square&logo=redhat&logoColor=white) **System Administration I (RH124 - RHA)**
 - ![HP](https://img.shields.io/badge/HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white) **Ciencia y Análisis de Datos / Ciberseguridad**
 - ![Santander](https://img.shields.io/badge/Santander_Open_Academy-EC0000?style=flat-square&logo=bancosantander&logoColor=white) **Google: IA, Liderazgo, Comunicación Efectiva y Negociación**
