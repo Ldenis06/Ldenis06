@@ -46,12 +46,6 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-#### Asistencia por IA y productividad
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini" />
-</p>
 
 ---
 
