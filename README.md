@@ -45,15 +45,20 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 
 ---
 
-### Certificaciones destacadas
-- ![Red Hat](https://img.shields.io/badge/Red_Hat_Academy-16161a?style=flat-square&logo=redhat&logoColor=white) **System Administration I (RH124 - RHA)**
-- ![HP](https://img.shields.io/badge/HP_LIFE-16161a?style=flat-square&logo=hp&logoColor=white) **Ciencia y Análisis de Datos / Ciberseguridad**
-- ![Santander](https://img.shields.io/badge/Santander_Open_Academy-16161a?style=flat-square&logo=bancosantander&logoColor=white) **Google: IA, Liderazgo, Comunicación Efectiva y Negociación**
-
----
+### 📜 Certificaciones destacadas
+- ![Red Hat](https://img.shields.io/badge/Red_Hat_Academy-EE0000?style=flat-square&logo=redhat&logoColor=white) **System Administration I (RH124 - RHA)**
+- ![HP](https://img.shields.io/badge/HP_LIFE-0096D6?style=flat-square&logo=hp&logoColor=white) **Ciencia y Análisis de Datos / Ciberseguridad**
+- ![Santander](https://img.shields.io/badge/Santander_Open_Academy-EC0000?style=flat-square&logo=bancosantander&logoColor=white) **Google: IA, Liderazgo, Comunicación Efectiva y Negociación**
 
 ### Contacto y enlaces
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://ldenis06.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denislautaro)
 [![Email](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denislautaro6@gmail.com)
+
+
+## 🎮 Gráfico de contribuciones (Snake & Pacman Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ldenis06/Ldenis06/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
