@@ -1,6 +1,11 @@
 # Lautaro Denis 
 Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argentina de la Empresa (UADE), con interés en desarrollo web, análisis funcional, gestión de datos y optimización de procesos.
+### Contacto y enlaces
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ldenis06.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denislautaro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denislautaro6@gmail.com)
+---
 ---
 
 ###  Sobre mí
@@ -12,16 +17,6 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
   - **Metodologías:** Procesos modernos de desarrollo de software y gestión ágil.
 - **Perfil:** Me destaco por mi organización, capacidad analítica y aprendizaje continuo para aportar soluciones técnicas a procesos operativos.
 
-
-
-
-
-### 📫 Contacto y enlaces
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E1E2E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ldenis06.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denislautaro)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denislautaro6@gmail.com)
----
 
 ## 🛠️ Herramientas y tecnologías favoritas
 
