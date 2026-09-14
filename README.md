@@ -57,7 +57,7 @@ Estudiante de la Tecnicatura en Desarrollo de Software en la Universidad Argenti
 [![Email](https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denislautaro6@gmail.com)
 
 
-## 🎮 Gráfico de contribuciones (Snake & Pacman Animation)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ldenis06/Ldenis06/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
